@@ -1,5 +1,5 @@
 name,id,name_type,class,mass,fall,year,lat,long,geolocation
-Aachen,1,Valid,L5,21,Fell,1880,50.775,608.333,(50.775, 6.08333)
+Aachen,1,Valid,L5,21,Fell,1880,50.775,608.333,(50.775; 6.08333)
 Aarhus,2,Valid,H6,720,Fell,1951,5.618.333,1.023.333,(56.18333; 10.23333)
 Abee,6,Valid,EH4,107000,Fell,1952,5.421.667,-113,(54.21667; -113.0)
 Acapulco,10,Valid,Acapulcoite,1914,Fell;1976,1.688.333,-99.9;(16.88333; -99.9)
